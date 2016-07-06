@@ -1,0 +1,18 @@
+{
+    "modulePath": {
+        "filename": "test.js",
+        "directives": [
+            "directiveName2",
+            "directiveName"
+        ],
+        "services": [
+            "serviceName2",
+            "serviceName"
+        ],
+        "moduleName": "modulePath",
+        "moduleDeps": [
+            "dep1",
+            "dep2"
+        ]
+    }
+}
